@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam-fsd
 - 👀 I’m interested in programming
 - 🌱 I’m currently undertaking a programme in software engineering
-- 💞️ I’m looking to collaborate on any C project
+- 💞️ I’m looking to collaborate on any C & Python project
 - 📫 How to reach me email me at samchiira@outlook.com
 
 <!---
