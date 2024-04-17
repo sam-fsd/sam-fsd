@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **python & Javascript projects**
 
-- 💬 Ask me about **Python, Nodejs, APIs, OOP, etc.**
+- 💬 Ask me about **Python, Nodejs, APIs, Databases, etc.**
 
 - 📫 How to reach me **samchiira@outlook.com**
 
